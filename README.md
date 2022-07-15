@@ -19,7 +19,7 @@ Self-taught student in backend development and functional languages.
 
 # ✨ Others
 
-I'm currently learning more about Golang and Clojure.
+I'm currently learning more about Elixir and Golang.
 
 <div style="margin-top: 10px; ">
     <a href="https://github.com/rodrigocitadin">
