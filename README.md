@@ -9,7 +9,7 @@ Self-taught student in backend development and functional languages.
 <div style="display: inline_block; margin-bottom: 20px;">
     <img align="center" alt="citadin-elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
     <!-- <img align="center" alt="citadin-go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"> -->
-    <img align="center" alt="citadin-rust" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+    <!-- <img align="center" alt="citadin-rust" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"> -->
     <!-- <img align="center" alt="citadin-clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg"> -->
     <img align="center" alt="citadin-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="citadin-git"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
