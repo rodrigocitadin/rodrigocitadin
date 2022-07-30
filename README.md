@@ -1,28 +1,30 @@
+# Olá! Meu nome é Rodrigo 🙋🏻‍♂️
 
-# 🐈‍⬛ About Me
+### Overview
+- 🎂 Tenho 17 anos
+- 📖 Estudo **desenvolvimento back-end** pela **[Rocketseat](https://www.rocketseat.com.br/)**
+- ⚡ Atualmente tenho foco na linguagem Elixir
 
-My name is Rodrigo and i'm backend developer from Brazil.
+### Skills
 
-Self-taught student in backend development and functional languages.
+<p align="left">
+    <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="36" height="36" alt="Elixir" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="Postgres" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
-# 🛠️ Skills
-<div style="display: inline_block; margin-bottom: 20px;">
-    <img align="center" alt="citadin-elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
-    <!-- <img align="center" alt="citadin-go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"> -->
-    <!-- <img align="center" alt="citadin-rust" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"> -->
-    <!-- <img align="center" alt="citadin-clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg"> -->
-    <img align="center" alt="citadin-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="citadin-git"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="citadin-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="citadin-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+### Social
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigobcitadin/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rodrigocitadin1) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigocitadin1/)
+
+### GitHub Status
+
+<div style="display: flex;">
+<a href="https://github.com/rodrigocitadin">
+<img src="https://github-readme-stats.vercel.app/api?username=rodrigocitadin&theme=dark&show_icons=true&hide_border=true&show_icons=true&count_private=true&hide=contribs,prs" height="140px" width="400px" alt="GitHub stats"/></a>
+
+<a href="https://github.com/rodrigocitadin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocitadin&hide_border=true&count_private=true&theme=dark" height="140px" width="290px"  alt="Top Languages"/></a>
 </div>
-
-# ✨ Others
-
-I'm currently learning more about Elixir and Golang.
-
-<div style="margin-top: 10px; ">
-    <a href="https://github.com/rodrigocitadin">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocitadin&layout=compact&langs_count=8&theme=swift"/>
-    </a>
-<div>
