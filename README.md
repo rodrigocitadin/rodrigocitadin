@@ -24,7 +24,7 @@
 
 <div style="display: flex;">
 <a href="https://github.com/rodrigocitadin">
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigocitadin&theme=dark&show_icons=true&hide_border=true&show_icons=true&count_private=true&hide=contribs,prs" height="140px" width="400px" alt="GitHub stats"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=rodrigocitadin&theme=dark&show_icons=true&hide_border=true&show_icons=true&count_private=true&hide=contribs,prs" height="150px" alt="GitHub stats"/></a>
 
-<a href="https://github.com/rodrigocitadin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocitadin&hide_border=true&count_private=true&theme=dark" height="140px" width="290px"  alt="Top Languages"/></a>
+<a href="https://github.com/rodrigocitadin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocitadin&hide_border=true&count_private=true&theme=dark" height="150px"  alt="Top Languages"/></a>
 </div>
