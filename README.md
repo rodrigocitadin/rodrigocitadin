@@ -3,13 +3,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/bqm6WOjuLu480/giphy.gif">
-  <p> <a href="https://twitter.com/rodrigocitadin1" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigocitadin1?logo=twitter&style=for-the-badge" alt="rodrigocitadin1" /></a> </p>
-
-  <p>🌱 I’m currently learning <b>Rust and Python</b></p>
-
-  <p>📫 How to reach me <b>citadinrodrigo@gmail.com</b></p>
-
-  <p>⚡ Fun fact <b>I write with both hands</b></p>
+  <p> <a href="https://twitter.com/rodrigocitadin1" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigocitadin1?logo=twitter&style=for-the-badge" alt="rodrigocitadin1" /></a>
 </div>
 
 <div align="center">
