@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/bqm6WOjuLu480/giphy.gif">
-  <p> <a href="https://twitter.com/rodrigocitadin1" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigocitadin1?logo=twitter&style=for-the-badge" alt="rodrigocitadin1" /></a>
+  <p> <a href="https://twitter.com/devcitadin" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigocitadin1?logo=twitter&style=for-the-badge" alt="rodrigocitadin1" /></a>
 </div>
 
 <div align="center">
