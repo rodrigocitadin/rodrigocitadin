@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Citadin</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/bqm6WOjuLu480/giphy.gif">
