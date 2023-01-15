@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bqm6WOjuLu480/giphy.gif">
+  <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
 </div>
 
 <div align="center">
