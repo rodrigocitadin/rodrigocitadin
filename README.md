@@ -11,4 +11,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocitadin&layout=compact&langs_count=4&theme=dark&hide_border=true"/>
 </div>
 
-<!-- I'm traveling, that's why I'm commit a lot of shit -->
+<!-- I'm traveling, that's why I'm commit a lot of shit
+HAHAHAHAHA FJSHFSJKFBSJKFBDSJVSD
+ DSKCSNDVKJSNSMDSJ JKFNSDJKFHJSKHCDSJ
+LKVNSKVNSK   CKJSNCJKNK  CNKSNVSK S
+-->
