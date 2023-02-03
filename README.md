@@ -38,7 +38,3 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rodrigocitadin&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocitadin&langs_count=4&layout=compact&theme=nord&hide_border=true"/>
 </div>
-
-<!--
-i'm sad today
--->
