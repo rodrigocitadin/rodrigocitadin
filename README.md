@@ -41,3 +41,6 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocitadin&langs_count=4&layout=compact&theme=nord&hide_border=true"/>
 </div>
   
+<!--
+today i'll not commit because I formated my pc
+-->
