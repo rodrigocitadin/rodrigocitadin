@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **Rust and Typescript**
+- 🌱 I’m currently learning **Rust, Typescript and Vim**
 
 - 👨‍💻 All of my projects are available at **[https://citadin.vercel.app/](https://citadin.vercel.app/)**
 
