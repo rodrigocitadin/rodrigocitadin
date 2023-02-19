@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=31&center=true&vCenter=true&width=600&height=100&lines=Citadin;A+passionate+backend+developer;Software+Engineer+Student"></a>
-</p>
-
 - 🌱 I’m currently learning **Rust and Typescript**
 
 - 👨‍💻 All of my projects are available at **[https://citadin.vercel.app/](https://citadin.vercel.app/)**
