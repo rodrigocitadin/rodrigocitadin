@@ -6,7 +6,4 @@
 
 - 📫 How to reach me **rodrigocitadin.dev@gmail.com**
 
-- ⚡ Fun fact **I write with both hands**
-
 - 🔍 I’m currently open for an Intern or a **[new job opportunity](https://www.linkedin.com/in/rodrigobcitadin/)**
-
