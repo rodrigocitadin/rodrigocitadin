@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://citadin.vercel.app/">website</a> |
+    <a href="https://citadin.tech/">website</a> |
     <a href="https://twitter.com/devcitadin">twitter</a> |
     <a href="https://linkedin.com/in/rodrigobcitadin">linkedin</a> |
     <a href="https://dev.to/rodrigocitadin">dev.to</a> |
