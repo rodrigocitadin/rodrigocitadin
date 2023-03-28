@@ -9,6 +9,6 @@
 </p>
 
 <div align="center">
-  <img height="220em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocitadin&langs_count=10&layout=compact">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=rodrigocitadin">
+  <img height="210em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocitadin&langs_count=10&layout=compact">
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=rodrigocitadin">
 </div>
