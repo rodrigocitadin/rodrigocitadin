@@ -1,4 +1,36 @@
+<h1 align="center">Rodrigo Citadin</h1>
+    
 <div align="center">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocitadin&langs_count=10&layout=compact&hide_border=true&theme=swift&hide=shell,lua">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocitadin&hide_border=true&theme=swift">
+<h3><samp>Software Engineer | Reader | Mathematician | Arch user</samp></h3>
+<br>
+
+<blockquote>
+    <p><i>
+        “First say to yourself what you would be; and then do what you have to do.”
+    </i></p>
+</blockquote>
+</div>
+
+<h3>About me 👇</h3>
+
+---
+
+
+<div align="right" style="margin:auto">
+     <a href="https://github.com/rodrigocitadin">
+        <img 
+          height="200em"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocitadin&hide=html,css,shell,lua&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
+          align="right"
+        />
+    </a>
+</div>
+
+
+Hey there! I am Rodrigo, aka [**@citadin**](https://linkedin.com/in/rodrigobcitadin) :wave:
+
+I have experience with Back-end web programming, Systems Development, and Dev-Ops. My main knowledge in technologies are **Typescript**, **NestJs**, **C#**, **ASP.NET**, **.NET** and **Docker**. I am also comfortable using **Javascript**, **C/C++**, **Elixir**, **Rust**, **Lua**, **Terraform** and **Kubernetes**.
+
+My main abilities include functional programming, algorithms, design patterns, problem solving, and refactoring clunky code into nice abstractions. 
+
 </div>
