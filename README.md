@@ -29,7 +29,7 @@
 
 Hey there! I am Rodrigo, aka [**@citadin**](https://linkedin.com/in/rodrigobcitadin) :wave:
 
-I have experience with Back-end web programming, Systems Development, and Dev-Ops. My main knowledge in technologies are **Typescript**, **NestJs**, **C#**, **ASP.NET**, **.NET** and **Docker**. I am also comfortable using **Javascript**, **C/C++**, **Elixir**, **Rust**, **Lua**, **Terraform** and **Kubernetes**.
+I have experience with Back-end web programming, Systems Development, and Dev-Ops. My main knowledge in technologies are **Typescript**, **NestJs**, **C#**, **ASP.NET**, **.NET** and **Docker**. I am also comfortable using **Javascript**, **C/C++**, **Elixir**, **Rust**, **Terraform** and **Kubernetes**.
 
 My main abilities include functional programming, algorithms, design patterns, problem solving, and refactoring clunky code into nice abstractions. 
 
