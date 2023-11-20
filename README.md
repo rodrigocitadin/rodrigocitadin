@@ -29,8 +29,8 @@
 
 Hey there! I am Rodrigo, aka [**@citadin**](https://linkedin.com/in/rodrigobcitadin) :wave:
 
-I have experience with Back-end web programming, Systems Development, and Dev-Ops. My main knowledge in technologies are **C#**, **.NET**, **ASP.NET**, **Javascript**, **Typescript** and **Docker**. I am also comfortable using **Python**, **C/C++**, **Elixir**, **Rust**, **Terraform** and **Kubernetes**.
+I have experience with Back-end web programming and Systems Development. My main knowledge in technologies are **C#**, **.NET**, **ASP.NET**, **Javascript** and **Typescript**. I am also comfortable using **Python**, **C/C++**, **Elixir** and **Rust**.
 
-My main abilities include functional programming, algorithms, design patterns, problem solving, and refactoring clunky code into nice abstractions. 
+My main abilities include functional programming, algorithms, design patterns, problem solving, and refactoring clunky code into nice abstractions.
 
 </div>
