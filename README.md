@@ -31,6 +31,6 @@ Hey there! I am Rodrigo, aka [**@citadin**](https://linkedin.com/in/rodrigobcita
 
 I have experience with Back-end web programming and Systems Development. My main knowledge in technologies are **C#**, **.NET**, **ASP.NET**, **Javascript** and **Typescript**. I am also comfortable using **Python**, **C/C++**, **Elixir** and **Rust**.
 
-My main abilities include functional programming, algorithms, design patterns, problem solving, and refactoring clunky code into nice abstractions.
+My main abilities include OOP/FP programming, algorithms, design patterns, problem solving, and refactoring clunky code into nice abstractions.
 
 </div>
