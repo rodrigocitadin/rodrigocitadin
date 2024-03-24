@@ -1,12 +1,12 @@
 <h3><samp>Software Engineer | Reader | Mathematician | Arch user</samp></h3>
 <br/>
 
-> 🧪 **Experience with**: Front and Backend Dev.
+> 🧪 **Experience with**: Frontend, Backend and FP.
 
-> 🌱 **Currently learning**: React and .NET ecosystem (especially F#)
-
+> 🌱 **Currently learning**: React and Elixir
+> 
 > 📫 **Reach me**: citadin. in Discord
 
-> 📚 **Hobbies**: Math, Programming and D&D
+> 📚 **Hobbies**: Programming, Poe and dnd
 
 > 😄 **Pronouns**: He/Him.
