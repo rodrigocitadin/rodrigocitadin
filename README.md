@@ -8,5 +8,3 @@
 > 📫 **Reach me**: citadin. in Discord
 
 > 📚 **Hobbies**: Programming, Poe and dnd
-
-> 😄 **Pronouns**: He/Him.
