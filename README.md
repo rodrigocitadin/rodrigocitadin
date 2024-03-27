@@ -4,4 +4,4 @@
  
 > 📫 **Reach me**: citadin. in Discord
 
-> 📚 **Hobbies**: Programming, Poe and dnd
+> 📚 **Hobbies**: Programming, Poe and Dnd
